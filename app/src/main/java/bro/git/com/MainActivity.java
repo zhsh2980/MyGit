@@ -1,8 +1,7 @@
 package bro.git.com;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
+import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -14,8 +13,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void addSth() {
-        Log.d("MainActivity", "feature-1提交");
-        Log.d("MainActivity", "feature-1提交第二次");
 
 
     }
