@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void addSth() {
         Log.d("MainActivity", "feature-1提交");
+        Log.d("MainActivity", "feature-1提交第二次");
 
 
     }
